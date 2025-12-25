@@ -45,19 +45,21 @@ El dashboard permite:
 
 ## 📁 Estructura del repositorio
 
+```
 analisis-incidencias-operativas/
 │
 ├── data/
-│ └── incidencias_operativas.xlsx
+│   └── incidencias_operativas.xlsx
 │
 ├── powerbi/
-│ └── dashboard_incidencias.pbix
+│   └── dashboard_incidencias.pbix
 │
 ├── images/
-│ ├── dashboard_general.png
-│ └── dashboard_filtros.png
+│   ├── dashboard_general.png
+│   └── dashboard_filtros.png
 │
 └── README.md
+```
 
 
 ---
