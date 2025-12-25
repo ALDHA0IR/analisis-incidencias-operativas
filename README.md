@@ -41,3 +41,22 @@ El dashboard permite:
 
 ## 📁 Estructura del repositorio
 
+analisis-incidencias-operativas/
+│
+├── data/
+│ └── incidencias_operativas.xlsx
+│
+├── powerbi/
+│ └── dashboard_incidencias.pbix
+│
+├── images/
+│ ├── dashboard_general.png
+│ └── dashboard_filtros.png
+│
+└── README.md
+
+
+---
+
+## 📌 Notas finales
+Este proyecto forma parte de mi portafolio personal como **Analista de Datos Junior**, enfocado en demostrar habilidades de análisis, visualización y comunicación de datos.
