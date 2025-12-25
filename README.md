@@ -56,7 +56,7 @@ analisis-incidencias-operativas/
 │
 ├── images/
 │   ├── dashboard_general.png
-│   └── dashboard_filtros.png
+│   └── dashboard_detalle_estacion.png
 │
 └── README.md
 ```
