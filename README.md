@@ -32,10 +32,12 @@ El dashboard permite:
 - Evaluar tendencias a lo largo del tiempo
 
 ### Vista general
-![Dashboard general](images/dashboard_general.png)
 
-### Dashboard con filtros
-![Dashboard con filtros](images/dashboard_filtros.png)
+### Vista general
+![Dashboard general](images/Dashboard_general.png)
+
+### Dashboard con filtros aplicados
+![Dashboard con filtros](images/Dashboard_filtros.png)
 
 ---
 
