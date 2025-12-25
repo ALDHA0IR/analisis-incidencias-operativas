@@ -1,5 +1,8 @@
 # 📊 Análisis de Incidencias Operativas
 
+Proyecto desarrollado en Power BI Desktop para analizar incidencias operativas mediante visualizaciones dinámicas y métricas eficientes.
+
+
 ## 🧩 Descripción
 Proyecto de análisis de datos enfocado en la gestión de incidencias operativas en estaciones de transporte.  
 El objetivo es analizar la carga operativa, el estado de atención y los tiempos promedio para apoyar la toma de decisiones.
@@ -33,7 +36,6 @@ El dashboard permite:
 
 ### Vista general
 
-### Vista general
 ![Dashboard general](images/Dashboard_general.png)
 
 ### Dashboard con filtros aplicados
