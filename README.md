@@ -37,7 +37,7 @@ El dashboard permite:
 ![Dashboard general](images/Dashboard_general.png)
 
 ### Dashboard con filtros aplicados
-![Dashboard con filtros](images/Dashboard_filtros.png)
+![Dashboard con filtros](images/Dashboard_detalle_estacion.png)
 
 ---
 
